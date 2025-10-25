@@ -1,0 +1,25 @@
+{
+  "eyebrow": "Actor • Creator • Vibe Curator",
+  "title": "Magnetic energy with black & gold glow.",
+  "lede": "Brooklyn-raised, globally seasoned. Chanel Mack blends grounded storytelling with cosmic sparkle—ready for the next series regular, indie darling, or avant-garde art house moment.",
+  "ctaPrimary": {
+    "label": "Discover Chanel",
+    "href": "#bio"
+  },
+  "ctaSecondary": {
+    "label": "Bookings & Press",
+    "href": "#contact"
+  },
+  "credits": ["FX", "Netflix", "Sundance Lab", "Public Theater"],
+  "badge": "SAG-AFTRA",
+  "floatingCard": {
+    "label": "Latest",
+    "value": "Lead, “Midnight Bloom”",
+    "detail": "Dir. A. Castillo • 2024 Tribeca Premiere"
+  },
+  "images": [
+    "/images/hero/hero-1.png",
+    "/images/hero/hero-2.png",
+    "/images/hero/hero-3.png"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "eyebrow": "Contact",
+  "title": "Bookings, collaborations, good energy.",
+  "representation": {
+    "heading": "Representation",
+    "name": "Nova Artists • Adrienne Cole",
+    "email": "aco@novaartists.com",
+    "phone": "(212) 555-0128",
+    "phoneLink": "+12125550128"
+  },
+  "direct": {
+    "heading": "Direct",
+    "summary": "For creative collabs, speaking, and press:",
+    "email": "hello@chanelmack.com"
+  },
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com"
+    },
+    {
+      "label": "IMDb",
+      "url": "https://www.imdb.com"
+    },
+    {
+      "label": "Vimeo",
+      "url": "https://www.vimeo.com"
+    }
+  ],
+  "form": {
+    "note": "Form is aesthetic only — reach out via email.",
+    "fields": [
+      {
+        "label": "Name",
+        "name": "name",
+        "placeholder": "You",
+        "type": "text"
+      },
+      {
+        "label": "Email",
+        "name": "email",
+        "placeholder": "you@email.com",
+        "type": "email"
+      },
+      {
+        "label": "Project",
+        "name": "message",
+        "placeholder": "Tell me about the role, vibe, or idea.",
+        "type": "textarea"
+      }
+    ]
+  }
+}

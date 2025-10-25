@@ -1,0 +1,24 @@
+{
+  "eyebrow": "Spotlight",
+  "title": "Projects with pulse.",
+  "projects": [
+    {
+      "label": "Series",
+      "title": "Electric Bodies",
+      "description": "Neo-soul sci-fi drama for FX. Chanel plays the empathic engineer who keeps the crew grounded.",
+      "detail": "Showrunner: Isla Monroe"
+    },
+    {
+      "label": "Film",
+      "title": "Golden Hour",
+      "description": "Intimate indie shot on 16mm exploring sisterhood and rebirth. Jury prize at Sundance Ignite.",
+      "detail": "Dir. Sage Atwood"
+    },
+    {
+      "label": "Stage",
+      "title": "Pulse Theory",
+      "description": "Immersive movement piece at The Shed featuring live looping, spoken word, and projection art.",
+      "detail": "Choreography: Imani Lowe"
+    }
+  ]
+}

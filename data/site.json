@@ -1,0 +1,16 @@
+{
+  "name": "Chanel Mack",
+  "tagline": "Actress & Creative",
+  "navActions": [
+    {
+      "label": "Video Reel",
+      "href": "#reel",
+      "variant": "ghost"
+    },
+    {
+      "label": "Let's Connect",
+      "href": "#contact",
+      "variant": "primary"
+    }
+  ]
+}

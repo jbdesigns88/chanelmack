@@ -1,0 +1,35 @@
+{
+  "fullName": "Chanel Mack",
+  "summaryEyebrow": "Bio",
+  "summaryTitle": "Rooted, soulful, future-facing.",
+  "summaryBody": "Chanel trained at NYU Tisch and honed her craft across stage, film, and immersive art spaces. Her work lives where raw humanity meets editorial edge.",
+  "story": {
+    "image": "/images/feature-1.png",
+    "headline": "Story",
+    "paragraph": "A former dancer with deep jazz roots, Chanel brings rhythm to every role. Her process blends method prep with improvisational play, keeping performances alive and electric.",
+    "bullets": [
+      "Height: 5'7\" • Eyes: Hazel • Hair: Natural curls",
+      "Dialects: NYC, Southern, RP, Francophone",
+      "Special skills: Contemporary dance, vocal looping"
+    ]
+  },
+  "stats": [
+    {
+      "number": "02",
+      "detail": "Series currently streaming"
+    },
+    {
+      "number": "06",
+      "detail": "International festival selections"
+    },
+    {
+      "number": "50K",
+      "detail": "Engaged community across socials"
+    }
+  ],
+  "representation": {
+    "label": "Nova Artists • Adrienne Cole",
+    "phone": "(212) 555-0128",
+    "tel": "+12125550128"
+  }
+}
